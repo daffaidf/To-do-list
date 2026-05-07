@@ -16,7 +16,7 @@ def add_task():
         "status": "Belum Selesai"
     }
     tasks.append(task_baru)
-    print("Data task sukses tersimpan!")
+    print("Task baru berhasil ditambahkan!")
 
 def update_status():
     print("\nFitur Update Status (Nanti dikerjain anggota tim lain)")
